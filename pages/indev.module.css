@@ -1,0 +1,14 @@
+.indev_title {
+  display: flex;
+  justify-content: center;
+  vertical-align: center;
+  padding-top: 8rem;
+}
+
+.indev_button {
+  display: flex;
+  justify-content: center;
+  vertical-align: center;
+}
+
+/*# sourceMappingURL=indev.module.css.map */

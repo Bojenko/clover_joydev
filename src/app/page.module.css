@@ -1,3 +1,9 @@
-
+.background {
+  background-image: url("background.png");
+  min-width: 100vh;
+  min-height: 100vh;
+  height: 100%;
+  width: 100%;
+}
 
 /*# sourceMappingURL=page.module.css.map */
